@@ -1,8 +1,8 @@
 class Lazystatus < Formula
   desc "🔍 A modern TUI for monitoring status pages"
   homepage "https://github.com/jakeasaurus/lazystatus"
-  url "https://github.com/jakeasaurus/lazystatus/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "2201f5248d03a4488461f31c0cfeb6f11e8180564e8928609bfda4ac62b732df"
+  url "https://github.com/jakeasaurus/lazystatus/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "2904f7730825690ce3cc13fb0a994137473db64045914147d2b2843aa99cfb17"
   license "MIT"
   head "https://github.com/jakeasaurus/lazystatus.git", branch: "main"
 
